@@ -1,5 +1,5 @@
 # NLW eSports
-Projeto criado durante o evento da Rocketseat, pela trilha Ignite
+Projeto desenvolvido durante o evento da Rocketseat, pela trilha Ignite
 
 > [Link do projeto no figma](https://www.figma.com/file/70Eh0a94g99RSCftLgcP3A/NLW-eSports-(Community)?node-id=0%3A1)
 
